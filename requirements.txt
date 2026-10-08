@@ -1,0 +1,4 @@
+# O projeto usa apenas a biblioteca padrão do Python (unittest, re, sys).
+# pytest é opcional, caso prefira rodar os testes com ele em vez do
+# unittest embutido.
+pytest>=7.0
